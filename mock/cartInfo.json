@@ -1,0 +1,75 @@
+{
+  "checked":true,
+  "totalPrice":0,
+  "user": {
+    "userName": "zhangsan",
+    "userNo": "001",
+    "level": 8
+  },
+  "shops": [
+    {
+      "shopName": "京东自营",
+      "level": 1,
+      "checked": true,
+      "totalPrice": 0,
+      "products":[
+        {
+          "checked":true,
+          "title":"荣耀9X 麒麟810 4000mAh超强续航 4800万超清夜拍 6.59英寸升降全面屏 全网通4GB+64GB 魅海蓝",
+          "pic":"http://img10.360buyimg.com/mobilecms/s117x117_jfs/t1/38376/31/12243/397999/5d36c0b0E4fe67576/ad031fec5819110f.jpg!q70.dpg.webp",
+          "attrs":{
+            "weight":10,
+            "color":"black",
+            "version":1.0
+          },
+          "price":1399,
+          "num":1
+        },
+        {
+          "checked":true,
+          "title":"华为 HUAWEI nova 5i Pro 前置3200万人像超级夜景4800万AI四摄极点全面屏6GB+128GB翡冷翠全网通双4G手机",
+          "pic":"http://img10.360buyimg.com/mobilecms/s117x117_jfs/t1/57784/26/5843/534057/5d39087fEb9cd66b7/d66c941633b410dd.jpg!q70.dpg.webp",
+          "attrs":{
+            "weight":10,
+            "color":"black",
+            "version":1.0
+          },
+          "price":2199,
+          "num":1
+        }
+      ]
+    },
+    {
+      "shopName": "华硕电脑官方旗舰店",
+      "level": 1,
+      "checked": true,
+      "totalPrice": 0,
+      "products":[
+        {
+          "checked":true,
+          "title":"外星人（alienware）ALW全新m17-R2 17.3英寸九代酷睿游戏本吃鸡游戏笔记本电脑预订 单主机 4725黑i7-9750H/GTX1660Ti",
+          "pic":"http://img10.360buyimg.com/mobilecms/s117x117_jfs/t1/76458/12/3156/24804/5d175c2fEe9427d68/25966b84e460a858.jpg!q70.dpg.webp",
+          "attrs":{
+            "weight":10,
+            "color":"black",
+            "version":1.0
+          },
+          "price":1399,
+          "num":1
+        },
+        {
+          "checked":true,
+          "title":"联想(Lenovo)拯救者Y7000P 2019英特尔酷睿i5 15.6英寸游戏笔记本电脑(i5-9300H 8G 1T SSD GTX1650 144Hz)",
+          "pic":"http://img10.360buyimg.com/mobilecms/s117x117_jfs/t1/42610/11/1048/199183/5cc516fcEb549ee2b/282813b7072dc770.jpg!q70.dpg.webp",
+          "attrs":{
+            "weight":10,
+            "color":"black",
+            "version":1.0
+          },
+          "price":7099,
+          "num":1
+        }
+      ]
+    }
+  ]
+}
